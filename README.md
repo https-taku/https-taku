@@ -23,3 +23,4 @@
 <a target="_blank" href="https://www.instagram.com/instagram.com/taku.codess" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=https-taku&show_icons=true&locale=en" alt="https-taku" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https-taku&" alt="https-taku" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=https-taku&show_icons=true&locale=en&layout=compact" alt="https-taku" /></p>
