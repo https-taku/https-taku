@@ -118,13 +118,13 @@ At **Infratech Africa**, I work on the services, integrations, and delivery infr
 <details>
 <summary><b>The path here</b> — experience and education</summary>
 
-**November 2024 – present · Software Engineer · Infratech Africa**  
+**November 2024 – present · Software Engineer · Infratech Africa**<br>
 Backend engineering, applied AI, enterprise integrations, and service delivery.
 
-**July – October 2024 · Software Engineering Fellow · Headstarter**  
+**July – October 2024 · Software Engineering Fellow · Headstarter**<br>
 Project-based work in system design, scalable architecture, REST APIs, and AI integration.
 
-**March 2023 – March 2024 · IT Intern · Croco Holdings**  
+**March 2023 – March 2024 · IT Intern · Croco Holdings**<br>
 Technical support, networking, system administration, and automation of repetitive support tasks.
 
 **B.Sc. (Hons) Computer Science · University of Zimbabwe · 2024**
