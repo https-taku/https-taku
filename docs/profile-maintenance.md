@@ -29,13 +29,15 @@ Review the experience period and product statuses when updating this profile. Sc
 
 ## Banner composition and source marks
 
-The banner keeps the ivory/emerald editorial typography and replaces the abstract artwork with three product identities. It is a new native SVG composition; the app logos were reused from their existing source assets rather than generated or redesigned.
+The banner keeps the ivory/emerald editorial typography and replaces the abstract artwork with four work references. It is a new native SVG composition; the app logos were reused from their existing source assets rather than generated or redesigned.
 
 - Mabasa: original horizontal vector lockup from https://getmabasa.co.zw/brand/mabasa-horizontal-color.svg, including its lowercase wordmark.
 - Scout: original bird mark from https://usescout.site/brand/scout-bird.webp, embedded directly in the SVG. The text label is outlined separately.
 - Hoist: the public website uses the Lucide Compass icon inside a dark circle, with a serif wordmark. The source project pins lucide-react 0.453.0. The corresponding icon is copied from https://raw.githubusercontent.com/lucide-icons/lucide/0.453.0/icons/compass.svg. See `lucide-license.txt` for its license.
 
 The composition contains no external image or font requests. Typography is outlined from Georgia and Arial; font binaries are not distributed. The Scout image is embedded as a data URI.
+
+- MEFMI: the complete logo supplied by the user on 2026-11-06, preserved as `assets/brands/mefmi.png` and embedded without altering its colors or wordmark. Platform: https://mcdebtdata.mefmi.org/. MEFMI is enterprise work at Infratech Africa, rather than an independent product. The banner heading is therefore “Selected work”.
 
 ## Updating safely
 

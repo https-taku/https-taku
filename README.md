@@ -1,6 +1,8 @@
 <p align="right"><sub>TAKUDZWA NHAWU &nbsp; / &nbsp; INDEPENDENT PRODUCTS + ENTERPRISE ENGINEERING</sub></p>
 
-![Takudzwa Nhawu — From idea to useful. Backend systems. Applied AI. Independent products. Featuring Mabasa, Scout, and Hoist.](assets/hero-products.svg)
+![Takudzwa Nhawu — From idea to useful. Backend systems. Applied AI. Independent products. Featuring Mabasa, Scout, Hoist, and MEFMI.](assets/hero-products.svg)
+
+[Mabasa](https://getmabasa.co.zw/) &nbsp; · &nbsp; [Scout](https://usescout.site/) &nbsp; · &nbsp; [Hoist](https://gethoist.site/) &nbsp; · &nbsp; [MEFMI Debt Statistics ↗](https://mcdebtdata.mefmi.org/)
 
 # I’m Taku. I build the product and the system behind it.
 
