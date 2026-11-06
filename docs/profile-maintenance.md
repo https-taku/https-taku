@@ -8,7 +8,7 @@ The Product Builder: editorial typography, warm ivory and emerald, restrained co
 
 ## Assets
 
-- `assets/hero.png`: original banner generated with the built-in Image Gen tool on 2026-11-06. No portrait or numerical activity claims.
+- `assets/hero-products.svg`: self-contained vector banner featuring actual app brand marks, created on 2026-11-06. Typography is outlined to preserve its appearance on GitHub. No abstract artwork, portrait, or numerical activity claims. Original source logos are in `assets/brands/`.
 - `assets/mabasa.jpg`: capture of https://getmabasa.co.zw/ on 2026-11-06.
 - `assets/scout.jpg`: capture of https://usescout.site/ on 2026-11-06. Budget amounts and news examples are illustrative product demonstrations.
 - `assets/hoist.jpg`: capture of https://gethoist.site/ on 2026-11-06. A waitlist site, not proof of released automation features.
@@ -27,9 +27,15 @@ Product names, descriptions, statuses, and the engineering record were cross-che
 
 Review the experience period and product statuses when updating this profile. Scout's wider product and Hoist remain in development at this update. Do not describe waitlist features as shipped capabilities.
 
-## Hero generation prompt
+## Banner composition and source marks
 
-Create one finished ultra-wide editorial GitHub profile banner, aspect ratio about 3:1, highest quality. Personal brand for software engineer and product builder Takudzwa Nhawu. A minimalist independent product studio aesthetic. Warm ivory background #F6F3EB, deep forest emerald #123C2D ink, tiny acid-lime and muted coral accents. Beautiful typographic composition with extreme scale contrast and abundant empty space. All typography on LEFT and CENTER, abstract sculptural ribbon folded from translucent emerald glass and a tiny coral orange sphere on RIGHT, no people, no portrait, no technology logos, no dashboard. Exact text only: small upper-left 'TAKUDZWA NHAWU / SOFTWARE ENGINEER'; enormous left aligned editorial serif on two lines 'From idea' and 'to useful.' with italic 'useful.'; lower-left smaller sans 'Backend systems. Applied AI. Independent products.'; tiny lower-right 'THE PRODUCT BUILDER'. Make large lettering crisp and perfectly spelled. Flat tasteful layout, not a webpage mockup, no border, no rounded panel, no buttons, no shadows behind typography. Keep all text within safe 7% margins, sculpture contained in rightmost third and does not overlap text. This is a production image asset for a real GitHub README, not a concept board.
+The banner keeps the ivory/emerald editorial typography and replaces the abstract artwork with three product identities. It is a new native SVG composition; the app logos were reused from their existing source assets rather than generated or redesigned.
+
+- Mabasa: original horizontal vector lockup from https://getmabasa.co.zw/brand/mabasa-horizontal-color.svg, including its lowercase wordmark.
+- Scout: original bird mark from https://usescout.site/brand/scout-bird.webp, embedded directly in the SVG. The text label is outlined separately.
+- Hoist: the public website uses the Lucide Compass icon inside a dark circle, with a serif wordmark. The source project pins lucide-react 0.453.0. The corresponding icon is copied from https://raw.githubusercontent.com/lucide-icons/lucide/0.453.0/icons/compass.svg. See `lucide-license.txt` for its license.
+
+The composition contains no external image or font requests. Typography is outlined from Georgia and Arial; font binaries are not distributed. The Scout image is embedded as a data URI.
 
 ## Updating safely
 
